@@ -1,0 +1,20 @@
+{
+  "name": "word-count",
+  "version": "1.0.0",
+  "description": "Word counter",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "save": "^2.3.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
+}

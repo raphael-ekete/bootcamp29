@@ -1,0 +1,14 @@
+*Last 24 Hours*
+>- Watched the videos on programming logic and test driven developement skill sessions.
+>- Read the front end development outcome in the bootcamp curriculum.
+>- Reviewed my challenge 1 work with my LFA.
+>- Wrote a blog  post (on medium); "my most recent challenging learning experience".
+>- Started the word-count coding challenge.
+*Next 24 Hours*
+>- Complete the word-count coding challenge.
+>- Read up Object-oriented programming and writing professionally outcomes in the bootcamp curriculum. 
+>- Complete the required outputs for today.
+>- Act on the feedback from my LFA on my challenge 1.
+*Blockers*
+>- Power 
+>- Internet
